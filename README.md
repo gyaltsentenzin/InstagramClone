@@ -2,7 +2,7 @@
 
 This is an instagram clone with no work done on backend. Inspired by coded through Gary Tokman's youtube channel course video.
 
-# UI
+# User Interface
 <img width="352" alt="Screen Shot 2022-01-16 at 9 15 42 PM" src="https://user-images.githubusercontent.com/40735388/149702712-79622e29-bd3f-4392-967f-df0b6f854eec.png">
 
 # System Requirement
